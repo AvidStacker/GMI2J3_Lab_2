@@ -21,7 +21,7 @@ namespace MS_BankAccountTests
             double beginningBalance = 100.00;
             double creditAmount = 50.00;
             double expected = 150.00;
-            double creditLimit = 200.00; // Assuming a credit limit for the test
+            double creditLimit = 200.00;
             BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance, creditLimit);
 
             // Act
