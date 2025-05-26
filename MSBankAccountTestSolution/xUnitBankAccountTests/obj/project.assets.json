@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
+      "projectUniqueName": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
       "projectName": "xUnitBankAccountTests",
-      "projectPath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
+      "projectPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
       "packagesPath": "C:\\Users\\ilage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\obj\\",
+      "outputPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\xUnitBankAccountTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ilage\\source\\repos\\MS_BankAccount\\BankApp.csproj": {
-              "projectPath": "C:\\Users\\ilage\\source\\repos\\MS_BankAccount\\BankApp.csproj"
+            "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MS_BankAccount\\BankApp.csproj": {
+              "projectPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MS_BankAccount\\BankApp.csproj"
             }
           }
         }

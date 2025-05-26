@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+NtBDjrRCU=",
+  "dgSpecHash": "FWUvPcBmTew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
+  "projectFilePath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\xUnitBankAccountTests\\xUnitBankAccountTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilage\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ilage\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

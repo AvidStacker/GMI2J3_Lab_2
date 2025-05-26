@@ -1,0 +1,14 @@
+C:\Users\ilage\source\repos\MS_BankAccount\bin\Debug\net7.0\MSBankAccount.exe
+C:\Users\ilage\source\repos\MS_BankAccount\bin\Debug\net7.0\MSBankAccount.deps.json
+C:\Users\ilage\source\repos\MS_BankAccount\bin\Debug\net7.0\MSBankAccount.runtimeconfig.json
+C:\Users\ilage\source\repos\MS_BankAccount\bin\Debug\net7.0\MSBankAccount.dll
+C:\Users\ilage\source\repos\MS_BankAccount\bin\Debug\net7.0\MSBankAccount.pdb
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.AssemblyInfoInputs.cache
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.AssemblyInfo.cs
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.dll
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\refint\MSBankAccount.dll
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.pdb
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\MSBankAccount.genruntimeconfig.cache
+C:\Users\ilage\source\repos\MS_BankAccount\obj\Debug\net7.0\ref\MSBankAccount.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj": {}
+    "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj": {
+    "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj",
+        "projectUniqueName": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj",
         "projectName": "RomanNumerals",
-        "projectPath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj",
+        "projectPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumerals.csproj",
         "packagesPath": "C:\\Users\\ilage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\obj\\",
+        "outputPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_2\\MSBankAccountTestSolution\\RomanNumerals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
