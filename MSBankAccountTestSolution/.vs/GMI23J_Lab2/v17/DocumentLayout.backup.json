@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5269C51C-A596-45DD-8841-700E4DD375D6}|MSBankAccountTestSolution\\MSBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\msbankaccounttestsolution\\bankaccountdebittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5269C51C-A596-45DD-8841-700E4DD375D6}|MSBankAccountTestSolution\\MSBankAccountTests.csproj|solutionrelative:msbankaccounttestsolution\\bankaccountdebittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E7CEC3-0612-4057-BAE3-E3D783B31FB2}|xUnitBankAccountTests\\xUnitBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\xunitbankaccounttests\\bankaccountcredittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E7CEC3-0612-4057-BAE3-E3D783B31FB2}|xUnitBankAccountTests\\xUnitBankAccountTests.csproj|solutionrelative:xunitbankaccounttests\\bankaccountcredittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92C5DC1-FA7F-CB5C-379D-610A35BCF45C}|..\\MS_BankAccount\\MSBankAccount.csproj|c:\\users\\ilage\\source\\repos\\ms_bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumerals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|solutionrelative:romannumerals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3790AA02-ACC7-4CDD-92A7-B686D23814A7}|nUnitBankAccountTests\\nUnitBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\nunitbankaccounttests\\bankaccountdebittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3790AA02-ACC7-4CDD-92A7-B686D23814A7}|nUnitBankAccountTests\\nUnitBankAccountTests.csproj|solutionrelative:nunitbankaccounttests\\bankaccountdebittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3790AA02-ACC7-4CDD-92A7-B686D23814A7}|nUnitBankAccountTests\\nUnitBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\nunitbankaccounttests\\bankaccountcredittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3790AA02-ACC7-4CDD-92A7-B686D23814A7}|nUnitBankAccountTests\\nUnitBankAccountTests.csproj|solutionrelative:nunitbankaccounttests\\bankaccountcredittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5269C51C-A596-45DD-8841-700E4DD375D6}|MSBankAccountTestSolution\\MSBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\msbankaccounttestsolution\\bankaccountcredittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5269C51C-A596-45DD-8841-700E4DD375D6}|MSBankAccountTestSolution\\MSBankAccountTests.csproj|solutionrelative:msbankaccounttestsolution\\bankaccountcredittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumeralstests\\badinputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|solutionrelative:romannumeralstests\\badinputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumerals\\romannumeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|solutionrelative:romannumerals\\romannumeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumerals\\romannumeralnotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|solutionrelative:romannumerals\\romannumeralnotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumerals\\romanknown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C0A5BF-68E5-4079-8598-8D91E0D096F4}|RomanNumerals\\RomanNumerals.csproj|solutionrelative:romannumerals\\romanknown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumeralstests\\goodinputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|solutionrelative:romannumeralstests\\goodinputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\romannumeralstests\\roundtriptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA41B39-9796-4C11-814B-0AE97C4F3587}|RomanNumeralsTests\\RomanNumeralsTests.csproj|solutionrelative:romannumeralstests\\roundtriptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E7CEC3-0612-4057-BAE3-E3D783B31FB2}|xUnitBankAccountTests\\xUnitBankAccountTests.csproj|c:\\users\\ilage\\source\\repos\\msbankaccounttestsolution\\xunitbankaccounttests\\bankaccountdebittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E7CEC3-0612-4057-BAE3-E3D783B31FB2}|xUnitBankAccountTests\\xUnitBankAccountTests.csproj|solutionrelative:xunitbankaccounttests\\bankaccountdebittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountDebitTest.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\MSBankAccountTestSolution\\BankAccountDebitTest.cs",
+              "RelativeDocumentMoniker": "MSBankAccountTestSolution\\BankAccountDebitTest.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\MSBankAccountTestSolution\\BankAccountDebitTest.cs",
+              "RelativeToolTip": "MSBankAccountTestSolution\\BankAccountDebitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:42:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BadInputTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\BadInputTests.cs",
+              "RelativeDocumentMoniker": "RomanNumeralsTests\\BadInputTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\BadInputTests.cs",
+              "RelativeToolTip": "RomanNumeralsTests\\BadInputTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:49:42.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\Program.cs",
+              "RelativeDocumentMoniker": "RomanNumerals\\Program.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\Program.cs",
+              "RelativeToolTip": "RomanNumerals\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:45.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountDebitTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\nUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "RelativeDocumentMoniker": "nUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\nUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "RelativeToolTip": "nUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:08:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankAccountCreditTest.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\MSBankAccountTestSolution\\BankAccountCreditTest.cs",
+              "RelativeDocumentMoniker": "MSBankAccountTestSolution\\BankAccountCreditTest.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\MSBankAccountTestSolution\\BankAccountCreditTest.cs",
+              "RelativeToolTip": "MSBankAccountTestSolution\\BankAccountCreditTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:24:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccountCreditTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\nUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "RelativeDocumentMoniker": "nUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\nUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "RelativeToolTip": "nUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MS_BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MS_BankAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MS_BankAccount\\Program.cs",
+              "RelativeToolTip": "..\\MS_BankAccount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:06:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountCreditTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "RelativeDocumentMoniker": "xUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "RelativeToolTip": "xUnitBankAccountTests\\BankAccountCreditTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:07:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RomanNumeral.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumeral.cs",
+              "RelativeDocumentMoniker": "RomanNumerals\\RomanNumeral.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumeral.cs",
+              "RelativeToolTip": "RomanNumerals\\RomanNumeral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:41:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RomanNumeralNotation.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumeralNotation.cs",
+              "RelativeDocumentMoniker": "RomanNumerals\\RomanNumeralNotation.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanNumeralNotation.cs",
+              "RelativeToolTip": "RomanNumerals\\RomanNumeralNotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:41:25.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RomanKnown.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanKnown.cs",
+              "RelativeDocumentMoniker": "RomanNumerals\\RomanKnown.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumerals\\RomanKnown.cs",
+              "RelativeToolTip": "RomanNumerals\\RomanKnown.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:40:55.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GoodInputTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\GoodInputTests.cs",
+              "RelativeDocumentMoniker": "RomanNumeralsTests\\GoodInputTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\GoodInputTests.cs",
+              "RelativeToolTip": "RomanNumeralsTests\\GoodInputTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:49:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoundTripTest.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\RoundTripTest.cs",
+              "RelativeDocumentMoniker": "RomanNumeralsTests\\RoundTripTest.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\RomanNumeralsTests\\RoundTripTest.cs",
+              "RelativeToolTip": "RomanNumeralsTests\\RoundTripTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:49:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BankAccountDebitTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "RelativeDocumentMoniker": "xUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\MSBankAccountTestSolution\\xUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "RelativeToolTip": "xUnitBankAccountTests\\BankAccountDebitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:49.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

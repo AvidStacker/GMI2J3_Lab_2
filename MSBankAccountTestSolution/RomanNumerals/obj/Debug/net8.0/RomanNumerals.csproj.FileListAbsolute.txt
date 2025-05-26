@@ -1,0 +1,14 @@
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\bin\Debug\net8.0\RomanNumerals.exe
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\bin\Debug\net8.0\RomanNumerals.deps.json
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\bin\Debug\net8.0\RomanNumerals.runtimeconfig.json
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\bin\Debug\net8.0\RomanNumerals.dll
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\bin\Debug\net8.0\RomanNumerals.pdb
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.dll
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\refint\RomanNumerals.dll
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.pdb
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\RomanNumerals.genruntimeconfig.cache
+C:\Users\ilage\source\repos\MSBankAccountTestSolution\RomanNumerals\obj\Debug\net8.0\ref\RomanNumerals.dll
